@@ -2,6 +2,11 @@ import java.math.BigInteger;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 
+/**
+ * <p>Title: MD5算法</p>
+ *
+ * @author 高压锅里的小白
+ */
 public class MD5Utils {
 	/**
 	 * 使用md5的算法进行加密
