@@ -1,2 +1,2 @@
 # ToolCollection
-java的各种工具类
+各种工具类
